@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-acquisition-service-bank-jp" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,12 +28,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ms-product-bank-jp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../proyecto_ORLANDO/bootcamp-everis-project" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -41,7 +44,7 @@
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsProductApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
     <configuration name="All in config-server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="config-server" />
       <option name="PACKAGE_NAME" value="" />
@@ -78,6 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MsAcquisitionBankApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-acquisition-service-bank-jp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msacquisitionbank.MsAcquisitionBankApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MsCustomerJApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="ms-customer-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bootcamp.mscustomerj.MsCustomerJApplication" />
@@ -99,13 +109,14 @@
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
       <item itemvalue="JUnit.All in config-server" />
       <item itemvalue="JUnit.All in eureka-server" />
+      <item itemvalue="Spring Boot.MsAcquisitionBankApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="JUnit.All in eureka-server" />
         <item itemvalue="JUnit.All in config-server" />
-        <item itemvalue="Spring Boot.MsCustomerJApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +130,7 @@
       <updated>1629162892856</updated>
       <workItem from="1629162894793" duration="1923000" />
       <workItem from="1629165101432" duration="3233000" />
-      <workItem from="1629209627234" duration="7765000" />
+      <workItem from="1629209627234" duration="10180000" />
     </task>
     <servers />
   </component>
