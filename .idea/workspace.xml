@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-product-bank-jp" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,8 +79,8 @@
     <list>
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.MsCustomerJApplication" />
       <item itemvalue="Spring Boot.MsProductApplication" />
+      <item itemvalue="Spring Boot.MsCustomerJApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -97,7 +97,8 @@
       <option name="presentableId" value="Default" />
       <updated>1629162892856</updated>
       <workItem from="1629162894793" duration="1923000" />
-      <workItem from="1629165101432" duration="2706000" />
+      <workItem from="1629165101432" duration="3233000" />
+      <workItem from="1629209627234" duration="1113000" />
     </task>
     <servers />
   </component>
