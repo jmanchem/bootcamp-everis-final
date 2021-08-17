@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/config-server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -29,7 +29,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,7 +61,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MsCustomerJApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="MsCustomerJApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="ms-customer-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bootcamp.mscustomerj.MsCustomerJApplication" />
       <method v="2">
@@ -69,6 +73,11 @@
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MsCustomerJApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -79,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1629162892856</updated>
       <workItem from="1629162894793" duration="1923000" />
-      <workItem from="1629165101432" duration="657000" />
+      <workItem from="1629165101432" duration="1008000" />
     </task>
     <servers />
   </component>
