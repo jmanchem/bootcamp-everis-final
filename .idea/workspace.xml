@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-product-bank-jp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -119,7 +119,7 @@
       <updated>1629162892856</updated>
       <workItem from="1629162894793" duration="1923000" />
       <workItem from="1629165101432" duration="3233000" />
-      <workItem from="1629209627234" duration="6862000" />
+      <workItem from="1629209627234" duration="7765000" />
     </task>
     <servers />
   </component>
