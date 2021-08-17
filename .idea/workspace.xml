@@ -41,7 +41,7 @@
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsCustomerJApplication">
+  <component name="RunManager" selected="Spring Boot.MsProductApplication">
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="config-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
@@ -69,10 +69,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MsProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msproduct.MsProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
+      <item itemvalue="Spring Boot.MsProductApplication" />
     </list>
     <recent_temporary>
       <list>
