@@ -10,6 +10,6 @@
 [submodule "ms-product-bank-jp"]
 	path = ms-product-bank-jp
 	url = https://github.com/jmanchem/ms-product-bank-jp
-[submodule "ms-adquisitions-service-bank-jp"]
-	path = ms-adquisitions-service-bank-jp
+[submodule "ms-acquisition-service-bank-jp"]
+	path = ms-acquisition-service-bank-jp
 	url = https://github.com/jmanchem/ms-adquisitions-service-bank-jp
