@@ -7,3 +7,6 @@
 [submodule "ms-customer-bank-jp"]
 	path = ms-customer-bank-jp
 	url = https://github.com/jmanchem/ms-customer-bank-jp
+[submodule "ms-product-bank-jp"]
+	path = ms-product-bank-jp
+	url = https://github.com/jmanchem/ms-product-bank-jp
