@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ms-customer-bank-jp/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ms-product-bank-jp" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -98,7 +98,7 @@
       <updated>1629162892856</updated>
       <workItem from="1629162894793" duration="1923000" />
       <workItem from="1629165101432" duration="3233000" />
-      <workItem from="1629209627234" duration="1113000" />
+      <workItem from="1629209627234" duration="1803000" />
     </task>
     <servers />
   </component>
