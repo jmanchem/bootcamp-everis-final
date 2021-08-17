@@ -20,13 +20,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="ConfigServer" />
+      <module name="config-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SHORTEN_COMMAND_LINE" value="NONE" />
@@ -38,6 +48,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629162892856</updated>
-      <workItem from="1629162894793" duration="282000" />
+      <workItem from="1629162894793" duration="1518000" />
     </task>
     <servers />
   </component>
