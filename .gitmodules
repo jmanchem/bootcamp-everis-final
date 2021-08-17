@@ -4,3 +4,6 @@
 [submodule "eureka-server"]
 	path = eureka-server
 	url = https://github.com/jmanchem/eureka-server
+[submodule "ms-customer-bank-jp"]
+	path = ms-customer-bank-jp
+	url = https://github.com/jmanchem/ms-customer-bank-jp
