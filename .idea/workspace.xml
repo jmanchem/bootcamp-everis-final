@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-customer-bank-jp" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../proyecto_ORLANDO/bootcamp-everis-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -44,24 +44,24 @@
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
-    <configuration name="All in config-server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="config-server" />
+  <component name="RunManager" selected="Spring Boot.MsProductApplication (1)">
+    <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in eureka-server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="eureka-server" />
+    <configuration name="All in ms-customer-bank-jp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="config-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.configserver.ConfigServerApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -81,6 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MsAcquisitionBankApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-acquisition-bank" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msacquisitionbank.MsAcquisitionBankApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MsAcquisitionBankApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ms-acquisition-service-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msacquisitionbank.MsAcquisitionBankApplication" />
@@ -95,6 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MsProductApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="product-bank-jp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msproduct.MsProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MsProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ms-product-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msproduct.MsProductApplication" />
@@ -103,20 +117,23 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.All in ms-customer-bank-jp" />
+      <item itemvalue="Spring Boot.MsProductApplication" />
+      <item itemvalue="Spring Boot.MsAcquisitionBankApplication" />
+      <item itemvalue="Spring Boot.MsProductApplication (1)" />
+      <item itemvalue="Spring Boot.MsAcquisitionBankApplication (1)" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.MsProductApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
-      <item itemvalue="JUnit.All in config-server" />
-      <item itemvalue="JUnit.All in eureka-server" />
-      <item itemvalue="Spring Boot.MsAcquisitionBankApplication" />
+      <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
-        <item itemvalue="JUnit.All in eureka-server" />
-        <item itemvalue="JUnit.All in config-server" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="JUnit.All in ms-customer-bank-jp" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +148,8 @@
       <workItem from="1629162894793" duration="1923000" />
       <workItem from="1629165101432" duration="3233000" />
       <workItem from="1629209627234" duration="10582000" />
+      <workItem from="1629307890620" duration="1209000" />
+      <workItem from="1629309301667" duration="61000" />
     </task>
     <servers />
   </component>
