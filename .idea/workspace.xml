@@ -105,6 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MsPasivesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-bill-service-bank-jp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mspasives.MsPasivesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MsProductApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ms-product-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msproduct.MsProductApplication" />
@@ -129,6 +136,7 @@
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
+      <item itemvalue="Spring Boot.MsPasivesApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -155,7 +163,7 @@
       <workItem from="1629309301667" duration="553000" />
       <workItem from="1629309900916" duration="48000" />
       <workItem from="1629322615903" duration="1161000" />
-      <workItem from="1629328458260" duration="399000" />
+      <workItem from="1629328458260" duration="785000" />
     </task>
     <servers />
   </component>

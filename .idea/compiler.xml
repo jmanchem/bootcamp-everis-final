@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ms-product-bank-jp" />
+        <module name="ms-bill-service-bank-jp" />
         <module name="config-server" />
         <module name="ms-customer-bank-jp" />
         <module name="ms-acquisition-service-bank-jp" />
@@ -20,6 +21,7 @@
       <module name="config-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="ms-acquisition-service-bank-jp" options="-parameters" />
+      <module name="ms-bill-service-bank-jp" options="-parameters" />
       <module name="ms-customer-bank-jp" options="-parameters" />
       <module name="ms-product-bank-jp" options="-parameters" />
     </option>

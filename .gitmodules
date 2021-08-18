@@ -13,3 +13,6 @@
 [submodule "ms-acquisition-service-bank-jp"]
 	path = ms-acquisition-service-bank-jp
 	url = https://github.com/jmanchem/ms-adquisitions-service-bank-jp
+[submodule "ms-bill-service-bank-jp"]
+	path = ms-bill-service-bank-jp
+	url = https://github.com/jmanchem/ms-bill-service-bank-jp
