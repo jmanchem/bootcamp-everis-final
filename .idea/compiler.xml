@@ -11,9 +11,7 @@
         <module name="config-server" />
         <module name="ms-customer-bank-jp" />
         <module name="ms-acquisition-service-bank-jp" />
-        <module name="product-bank-jp" />
         <module name="eureka-server" />
-        <module name="ms-acquisition-bank" />
       </profile>
     </annotationProcessing>
   </component>
@@ -21,11 +19,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="config-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
-      <module name="ms-acquisition-bank" options="-parameters" />
       <module name="ms-acquisition-service-bank-jp" options="-parameters" />
       <module name="ms-customer-bank-jp" options="-parameters" />
       <module name="ms-product-bank-jp" options="-parameters" />
-      <module name="product-bank-jp" options="-parameters" />
     </option>
   </component>
 </project>
