@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-acquisition-service-bank-jp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-customer-bank-jp" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,16 +47,8 @@
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\ms-customer-bank-jp\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+  <component name="RunManager" selected="Spring Boot.MsCustomerApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ms-customer-bank-jp" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in ms-customer-bank-jp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -98,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MsCustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ms-customer-bank-jp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.mscustomer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bootcamp.mscustomer.MsCustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MsCustomerJApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="ms-customer-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.bootcamp.mscustomerj.MsCustomerJApplication" />
@@ -127,7 +132,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in ms-customer-bank-jp" />
       <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       <item itemvalue="Spring Boot.MsProductApplication" />
       <item itemvalue="Spring Boot.MsAcquisitionBankApplication" />
@@ -137,14 +141,15 @@
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
       <item itemvalue="Spring Boot.MsPasivesApplication" />
+      <item itemvalue="Spring Boot.MsCustomerApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MsCustomerApplication" />
+        <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
-        <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
-        <item itemvalue="JUnit.All in ms-customer-bank-jp" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +168,7 @@
       <workItem from="1629309301667" duration="553000" />
       <workItem from="1629309900916" duration="48000" />
       <workItem from="1629322615903" duration="1161000" />
-      <workItem from="1629328458260" duration="785000" />
+      <workItem from="1629328458260" duration="1539000" />
     </task>
     <servers />
   </component>
