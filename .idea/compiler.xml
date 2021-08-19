@@ -9,10 +9,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ms-product-bank-jp" />
         <module name="ms-bill-service-bank-jp" />
-        <module name="config-server" />
-        <module name="ms-customer-bank-jp" />
         <module name="ms-acquisition-service-bank-jp" />
+        <module name="config-server" />
         <module name="eureka-server" />
+        <module name="ms-customer-bank-jp" />
       </profile>
     </annotationProcessing>
   </component>

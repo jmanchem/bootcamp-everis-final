@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-customer-bank-jp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootcamp-everis-final" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config-data" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -40,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\config-data" />
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final\ms-customer-bank-jp\src\main\resources" />
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final" />
     </key>
@@ -47,7 +48,7 @@
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\ms-customer-bank-jp\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsCustomerApplication">
+  <component name="RunManager" selected="Spring Boot.MsAcquisitionBankApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
@@ -137,18 +138,18 @@
       <item itemvalue="Spring Boot.MsAcquisitionBankApplication" />
       <item itemvalue="Spring Boot.MsProductApplication (1)" />
       <item itemvalue="Spring Boot.MsAcquisitionBankApplication (1)" />
+      <item itemvalue="Spring Boot.MsPasivesApplication" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
-      <item itemvalue="Spring Boot.MsPasivesApplication" />
       <item itemvalue="Spring Boot.MsCustomerApplication" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.MsCustomerApplication" />
-        <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       </list>
     </recent_temporary>
@@ -168,7 +169,8 @@
       <workItem from="1629309301667" duration="553000" />
       <workItem from="1629309900916" duration="48000" />
       <workItem from="1629322615903" duration="1161000" />
-      <workItem from="1629328458260" duration="1539000" />
+      <workItem from="1629328458260" duration="3050000" />
+      <workItem from="1629382313634" duration="4049000" />
     </task>
     <servers />
   </component>
