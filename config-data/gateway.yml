@@ -9,14 +9,15 @@ spring:
           enabled: true
       routes:
         - id: service-customer
-          uri: http://localhost:8081/
+          uri: lb://service-service #http://localhost:8081/
           predicates:
             - Path=/customer/**
         - id: service-product
-          uri: http://localhost:8083/
+          uri: lb://service-product  #//http://localhost:8083/
           predicates:
             - Path=/product-bank-jp/**
         - id: SERVICE-ACQUISITION
-          uri: http://localhost:8087/
+          uri: lb://service-ACQUISITION  #//http://localhost:8087/
           predicates:
             - Path=/acquisition/**
+
