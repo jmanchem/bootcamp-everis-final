@@ -1,6 +1,11 @@
 server:
   port: 8099
 
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+
 spring:
   cloud:
     gateway:
@@ -9,15 +14,17 @@ spring:
           enabled: true
       routes:
         - id: service-customer
-          uri: lb://service-customer #http://localhost:8081/
+          uri: lb://service-customer
           predicates:
             - Path=/customer/**
         - id: service-product
-          uri: lb://service-product  #//http://localhost:8083/
+          uri: lb://service-product
           predicates:
             - Path=/product/**
-        - id: SERVICE-ACQUISITION
-          uri: lb://service-ACQUISITION  #//http://localhost:8087/
+        - id: service-acquisition
+          uri: lb://service-acquisition
           predicates:
             - Path=/acquisition/**
+
+
 
