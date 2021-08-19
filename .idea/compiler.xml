@@ -9,15 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ms-product-bank-jp" />
         <module name="ms-bill-service-bank-jp" />
-        <module name="ms-acquisition-service-bank-jp" />
         <module name="config-server" />
-        <module name="eureka-server" />
         <module name="ms-customer-bank-jp" />
+        <module name="ms-acquisition-service-bank-jp" />
+        <module name="config-gateway" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-gateway" options="-parameters" />
       <module name="config-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="ms-acquisition-service-bank-jp" options="-parameters" />

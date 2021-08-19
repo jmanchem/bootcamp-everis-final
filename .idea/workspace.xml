@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-acquisition-service-bank-jp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,11 +48,18 @@
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\ms-customer-bank-jp\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsAcquisitionBankApplication">
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,12 +150,13 @@
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
       <item itemvalue="Spring Boot.MsCustomerApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
-        <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       </list>
@@ -172,7 +180,7 @@
       <workItem from="1629328458260" duration="3050000" />
       <workItem from="1629382313634" duration="11706000" />
       <workItem from="1629396588568" duration="1471000" />
-      <workItem from="1629402472812" duration="4509000" />
+      <workItem from="1629402472812" duration="5251000" />
     </task>
     <servers />
   </component>

@@ -16,3 +16,6 @@
 [submodule "ms-bill-service-bank-jp"]
 	path = ms-bill-service-bank-jp
 	url = https://github.com/jmanchem/ms-bill-service-bank-jp
+[submodule "config-gateway"]
+	path = config-gateway
+	url = https://github.com/jmanchem/config-gateway
