@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-acquisition-service-bank-jp" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-gateway" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,7 +48,7 @@
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\ms-customer-bank-jp\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsCustomerApplication">
+  <component name="RunManager" selected="Spring Boot.MsAcquisitionBankApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
@@ -171,7 +171,8 @@
       <workItem from="1629322615903" duration="1161000" />
       <workItem from="1629328458260" duration="3050000" />
       <workItem from="1629382313634" duration="11706000" />
-      <workItem from="1629396588568" duration="588000" />
+      <workItem from="1629396588568" duration="1471000" />
+      <workItem from="1629402472812" duration="4509000" />
     </task>
     <servers />
   </component>
