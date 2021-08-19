@@ -15,4 +15,8 @@ spring:
         - id: service-product
           uri: http://localhost:8083/
           predicates:
-            - Path=/product/**
+            - Path=/product-bank-jp/**
+        - id: SERVICE-ACQUISITION
+          uri: http://localhost:8087/
+          predicates:
+            - Path=/acquisition/**
