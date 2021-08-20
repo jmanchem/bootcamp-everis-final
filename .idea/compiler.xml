@@ -13,6 +13,7 @@
         <module name="ms-customer-bank-jp" />
         <module name="ms-acquisition-service-bank-jp" />
         <module name="config-gateway" />
+        <module name="ms-card-bank-jp" />
         <module name="eureka-server" />
         <module name="ms-credit-bank-jp" />
       </profile>
@@ -25,6 +26,7 @@
       <module name="eureka-server" options="-parameters" />
       <module name="ms-acquisition-service-bank-jp" options="-parameters" />
       <module name="ms-bill-service-bank-jp" options="-parameters" />
+      <module name="ms-card-bank-jp" options="-parameters" />
       <module name="ms-credit-bank-jp" options="-parameters" />
       <module name="ms-customer-bank-jp" options="-parameters" />
       <module name="ms-product-bank-jp" options="-parameters" />

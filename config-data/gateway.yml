@@ -34,7 +34,7 @@ spring:
           predicates:
             - Path=/credit/**
         - id: service-card
-            uri: lb://service-card
-            predicates:
-              - Path=/card/**
+          uri: lb://service-card
+          predicates:
+            - Path=/card/**
 

@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ms-card-bank-jp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-gateway" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -52,7 +52,7 @@
       <recent name="com.example.mscredit.model.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+  <component name="RunManager" selected="Spring Boot.MsCustomerApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
@@ -98,6 +98,13 @@
     <configuration name="MsAcquisitionBankApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ms-acquisition-service-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msacquisitionbank.MsAcquisitionBankApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsCardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-card-bank-jp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mscard.MsCardApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,17 +165,18 @@
       <item itemvalue="Spring Boot.MsAcquisitionBankApplication (1)" />
       <item itemvalue="Spring Boot.MsPasivesApplication" />
       <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.MsCreditApplication" />
+      <item itemvalue="Spring Boot.MsCardApplication" />
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
       <item itemvalue="Spring Boot.MsCustomerApplication" />
-      <item itemvalue="Spring Boot.MsCreditApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
-        <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       </list>
@@ -193,7 +201,8 @@
       <workItem from="1629382313634" duration="11706000" />
       <workItem from="1629396588568" duration="1471000" />
       <workItem from="1629402472812" duration="9272000" />
-      <workItem from="1629468516036" duration="17704000" />
+      <workItem from="1629468516036" duration="18173000" />
+      <workItem from="1629495489960" duration="590000" />
     </task>
     <servers />
   </component>
