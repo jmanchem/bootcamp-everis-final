@@ -37,4 +37,23 @@ spring:
           uri: lb://service-card
           predicates:
             - Path=/card/**
-
+        - id: service-consumption
+          uri: lb://service-consumption
+          predicates:
+            - Path=/consumption/**
+        - id: service-deposit
+          uri: lb://service-deposit
+          predicates:
+            - Path=/deposit/**
+        - id: service-payment
+          uri: lb://service-payment
+          predicates:
+            - Path=/payment/**
+        - id: service-retire
+          uri: lb://service-retire
+          predicates:
+            - Path=/retire/**
+        - id: service-transaction
+          uri: lb://service-transaction
+          predicates:
+            - Path=/transaction/**
