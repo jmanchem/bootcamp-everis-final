@@ -25,3 +25,18 @@
 [submodule "ms-card-bank-jp"]
 	path = ms-card-bank-jp
 	url = https://github.com/jmanchem/ms-card-bank-jp
+[submodule "ms-transaction-bank-jp"]
+	path = ms-transaction-bank-jp
+	url = https://github.com/jmanchem/ms-transaction-bank-jp
+[submodule "ms-retire-bank-jp"]
+	path = ms-retire-bank-jp
+	url = https://github.com/jmanchem/ms-retire-bank-jp
+[submodule "ms-payment-bank-jp"]
+	path = ms-payment-bank-jp
+	url = https://github.com/jmanchem/ms-payment-bank-jp
+[submodule "ms-deposit-bank-jp"]
+	path = ms-deposit-bank-jp
+	url = https://github.com/jmanchem/ms-deposit-bank-jp
+[submodule "ms-consumption-bank-jp"]
+	path = ms-consumption-bank-jp
+	url = https://github.com/jmanchem/ms-consumption-bank-jp
