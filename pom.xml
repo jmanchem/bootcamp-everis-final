@@ -39,6 +39,7 @@
         <module>ms-product-bank-jp</module>
         <module>ms-acquisition-service-bank-jp</module>
         <module>ms-bill-service-bank-jp</module>
+        <module>ms-credit-bank-jp</module>
     </modules>
 
 </project>

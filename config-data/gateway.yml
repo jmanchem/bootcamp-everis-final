@@ -29,6 +29,12 @@ spring:
           uri: lb://service-acquisition
           predicates:
             - Path=/acquisition/**
-
-
+        - id: service-credit
+          uri: lb://service-credit
+          predicates:
+            - Path=/credit/**
+        - id: service-card
+            uri: lb://service-card
+            predicates:
+              - Path=/card/**
 

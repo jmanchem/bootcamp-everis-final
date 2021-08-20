@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-acquisition-service-bank-jp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wpkPLefo1OKLsFuVsEiy4v7okl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ms-card-bank-jp" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -41,14 +41,18 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\config-data" />
+      <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\ms-credit-bank-jp\src\main\java\com\example\mscredit\model\entities" />
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final\ms-customer-bank-jp\src\main\resources" />
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jmanchem\OneDrive - everis\Documentos\GitHub\proyecto_JPOMM\bootcamp-everis-final-jpomm-\ms-customer-bank-jp\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.mscredit.model.entities" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsAcquisitionBankApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
@@ -94,6 +98,13 @@
     <configuration name="MsAcquisitionBankApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ms-acquisition-service-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msacquisitionbank.MsAcquisitionBankApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsCreditApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ms-credit-bank-jp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mscredit.MsCreditApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,12 +162,13 @@
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
       <item itemvalue="Spring Boot.MsCustomerApplication" />
+      <item itemvalue="Spring Boot.MsCreditApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       </list>
@@ -181,7 +193,7 @@
       <workItem from="1629382313634" duration="11706000" />
       <workItem from="1629396588568" duration="1471000" />
       <workItem from="1629402472812" duration="9272000" />
-      <workItem from="1629468516036" duration="13263000" />
+      <workItem from="1629468516036" duration="16927000" />
     </task>
     <servers />
   </component>

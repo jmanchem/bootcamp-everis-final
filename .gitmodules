@@ -19,3 +19,6 @@
 [submodule "config-gateway"]
 	path = config-gateway
 	url = https://github.com/jmanchem/config-gateway
+[submodule "ms-credit-bank-jp"]
+	path = ms-credit-bank-jp
+	url = https://github.com/jmanchem/ms-credit-bank-jp
