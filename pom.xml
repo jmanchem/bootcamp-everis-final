@@ -41,6 +41,11 @@
         <module>ms-bill-service-bank-jp</module>
         <module>ms-credit-bank-jp</module>
         <module>ms-card-bank-jp</module>
+        <module>ms-consumption-bank-jp</module>
+        <module>ms-payment-bank-jp</module>
+        <module>ms-deposit-bank-jp</module>
+        <module>ms-retire-bank-jp</module>
+        <module>ms-transaction-bank-jp</module>
     </modules>
 
 </project>

@@ -7,8 +7,13 @@
     <file url="file://$PROJECT_DIR$/ms-acquisition-service-bank-jp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-bill-service-bank-jp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-card-bank-jp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-consumption-bank-jp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-credit-bank-jp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-customer-bank-jp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-deposit-bank-jp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-payment-bank-jp/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-product-bank-jp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-retire-bank-jp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-transaction-bank-jp/src/main/java" charset="UTF-8" />
   </component>
 </project>
