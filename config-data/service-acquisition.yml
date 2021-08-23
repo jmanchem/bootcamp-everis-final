@@ -10,3 +10,4 @@ spring:
   data:
     mongodb:
       uri: mongodb://localhost:27017/DB-Bank
+      #uri: mongodb+srv://JPOMM:<AQPsoft123456>@cluster0.trttq.mongodb.net/DB-BANK?retryWrites=true&w=majority

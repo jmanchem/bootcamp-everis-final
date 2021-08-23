@@ -8,5 +8,10 @@ spring:
     application:
         name: service-customer
     data:
-        mongodb:
-            uri: mongodb://localhost:27017/DB-Bank
+        #mongodb:
+            #uri: mongodb://localhost:27017/DB-Bank
+        mongodb://ambootcampdemo:PWUjMr10NYFaFCVXZ7QjGNlEFJCNWw1zsdmATF35LE1LZyHGvZvEajWn3WpAwXYEJ7yIGZDZgWHkvzmKznnQqA==@ambootcampdemo:
+            mongo:
+                cosmos:
+                    azure:
+                        com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@ambootcampdemo@:

@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-gateway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -52,7 +52,7 @@
       <recent name="com.example.mscredit.model.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsCustomerApplication">
+  <component name="RunManager" selected="Spring Boot.MsTransactionApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
@@ -202,21 +202,21 @@
       <item itemvalue="Spring Boot.ApiGatewayApplication" />
       <item itemvalue="Spring Boot.MsCreditApplication" />
       <item itemvalue="Spring Boot.MsCardApplication" />
-      <item itemvalue="Spring Boot.ConfigServerApplication" />
-      <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.MsCustomerJApplication" />
-      <item itemvalue="Spring Boot.MsCustomerApplication" />
       <item itemvalue="Spring Boot.MsPaymentApplication" />
       <item itemvalue="Spring Boot.MsConsumptionApplication" />
       <item itemvalue="Spring Boot.MsTransactionApplication" />
       <item itemvalue="Spring Boot.MsRetireApplication" />
       <item itemvalue="Spring Boot.MsDepositBankApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.MsCustomerJApplication" />
+      <item itemvalue="Spring Boot.MsCustomerApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       </list>
@@ -242,7 +242,8 @@
       <workItem from="1629396588568" duration="1471000" />
       <workItem from="1629402472812" duration="9272000" />
       <workItem from="1629468516036" duration="18173000" />
-      <workItem from="1629495489960" duration="2984000" />
+      <workItem from="1629495489960" duration="4187000" />
+      <workItem from="1629730746533" duration="1622000" />
     </task>
     <servers />
   </component>

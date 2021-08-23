@@ -8,8 +8,13 @@
     <mapping directory="$PROJECT_DIR$/ms-acquisition-service-bank-jp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-bill-service-bank-jp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-card-bank-jp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-consumption-bank-jp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-credit-bank-jp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-customer-bank-jp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-deposit-bank-jp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-payment-bank-jp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-product-bank-jp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-retire-bank-jp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-transaction-bank-jp" vcs="Git" />
   </component>
 </project>
