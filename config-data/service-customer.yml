@@ -9,4 +9,5 @@ spring:
         name: service-customer
     data:
         mongodb:
+            database: DB-Bank
             uri: mongodb://ambootcampdemo:PWUjMr10NYFaFCVXZ7QjGNlEFJCNWw1zsdmATF35LE1LZyHGvZvEajWn3WpAwXYEJ7yIGZDZgWHkvzmKznnQqA==@ambootcampdemo.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@ambootcampdemo@
