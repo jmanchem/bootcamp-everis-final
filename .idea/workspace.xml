@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ms-customer-bank-jp" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -53,7 +53,7 @@
       <recent name="com.example.mscredit.model.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsProductApplication">
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
     <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ms-customer-bank-jp" />
       <option name="PACKAGE_NAME" value="" />
@@ -215,9 +215,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       </list>
@@ -247,7 +247,8 @@
       <workItem from="1629730746533" duration="6071000" />
       <workItem from="1629749314995" duration="1770000" />
       <workItem from="1629751571415" duration="2254000" />
-      <workItem from="1629754065365" duration="997000" />
+      <workItem from="1629754065365" duration="3724000" />
+      <workItem from="1629758545120" duration="850000" />
     </task>
     <servers />
   </component>
