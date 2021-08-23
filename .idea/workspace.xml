@@ -215,8 +215,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.MsCustomerApplication" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
         <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
@@ -248,7 +248,7 @@
       <workItem from="1629749314995" duration="1770000" />
       <workItem from="1629751571415" duration="2254000" />
       <workItem from="1629754065365" duration="3724000" />
-      <workItem from="1629758545120" duration="850000" />
+      <workItem from="1629758545120" duration="2422000" />
     </task>
     <servers />
   </component>
