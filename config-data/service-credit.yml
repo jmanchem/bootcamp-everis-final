@@ -9,4 +9,4 @@ spring:
     name: service-credit
   data:
     mongodb:
-      uri: mongodb://localhost:27017/DB-Bank
+      uri: mongodb://localhost:27017/ms-customer
