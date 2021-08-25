@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../config-gateway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootcamp-config-data" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -54,14 +54,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
-    <configuration name="All in ms-customer-bank-jp (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ms-customer-bank-jp" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="config-gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
@@ -113,6 +105,19 @@
     <configuration name="MsConsumptionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ms-consumption-bank-jp" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.msconsumption.MsConsumptionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsCreditApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ms-card-bank-jp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mscredit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mscredit.MsCreditApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,7 +199,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       <item itemvalue="Spring Boot.MsProductApplication" />
       <item itemvalue="Spring Boot.MsAcquisitionBankApplication" />
       <item itemvalue="Spring Boot.MsProductApplication (1)" />
@@ -212,14 +216,15 @@
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.MsCustomerJApplication" />
       <item itemvalue="Spring Boot.MsCustomerApplication" />
+      <item itemvalue="Spring Boot.MsCreditApplication (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Spring Boot.ConfigServerApplication" />
         <item itemvalue="Spring Boot.MsCustomerApplication" />
+        <item itemvalue="Spring Boot.MsCreditApplication (1)" />
         <item itemvalue="Spring Boot.MsCustomerJApplication" />
-        <item itemvalue="JUnit.All in ms-customer-bank-jp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -250,6 +255,12 @@
       <workItem from="1629754065365" duration="3724000" />
       <workItem from="1629758545120" duration="3515000" />
       <workItem from="1629779138144" duration="2000" />
+      <workItem from="1629786257439" duration="374000" />
+      <workItem from="1629815702973" duration="2499000" />
+      <workItem from="1629823857243" duration="13329000" />
+      <workItem from="1629862525591" duration="5292000" />
+      <workItem from="1629870341729" duration="1603000" />
+      <workItem from="1629902085421" duration="517000" />
     </task>
     <servers />
   </component>
