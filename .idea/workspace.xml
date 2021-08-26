@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eureka-server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ms-bill-service-bank-jp" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -64,7 +64,7 @@
       <recent name="com.example.mscredit.model.entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MsProductApplication (1)">
+  <component name="RunManager" selected="Spring Boot.MsPasivesApplication">
     <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="config-gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
@@ -276,7 +276,7 @@
       <workItem from="1629920738392" duration="2123000" />
       <workItem from="1629923724113" duration="803000" />
       <workItem from="1629924571526" duration="3209000" />
-      <workItem from="1629927842892" duration="7690000" />
+      <workItem from="1629927842892" duration="8302000" />
     </task>
     <servers />
   </component>
