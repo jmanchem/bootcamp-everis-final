@@ -19,13 +19,13 @@
         <module name="config-gateway" />
         <module name="ms-deposit-bank-jp" />
         <module name="ms-transaction-bank-jp" />
-        <module name="ms-credit-bank-jp" />
+        <module name="ms-card-bank-jp" />
       </profile>
       <profile name="Annotation profile for bootcamp" enabled="true">
-        <sourceOutputDir name="../ms-credit-bank-jp/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../ms-credit-bank-jp/target/generated-test-sources/test-annotations" />
+        <sourceOutputDir name="../ms-card-bank-jp/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../ms-card-bank-jp/target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ms-card-bank-jp" />
+        <module name="ms-credit-bank-jp" />
       </profile>
     </annotationProcessing>
   </component>
